@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/five-repo/static/css/main.e6c13ad2.css",
+    "main.js": "/five-repo/static/js/main.5fc51582.js",
+    "index.html": "/five-repo/index.html",
+    "main.e6c13ad2.css.map": "/five-repo/static/css/main.e6c13ad2.css.map",
+    "main.5fc51582.js.map": "/five-repo/static/js/main.5fc51582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5fc51582.js"
+  ]
+}
